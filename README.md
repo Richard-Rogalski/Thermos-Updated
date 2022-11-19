@@ -1,5 +1,10 @@
 # yea so I realized I didn't actually need to edit any code yet for my fixes so nvm
 
+What I did:
+
+* Replace `libraries/com/google/guava/guava/14.0.1/guava-14.0.1.jar` with [this](https://github.com/google/guava/releases/download/v21.0/guava-21.0.jar). Needed for higher versions of mythicmobs than would otherwise be supported. See [here](https://git.lumine.io/mythiccraft/MythicMobs/-/issues/985) for more info.
+* Replace `libraries/net/md-5/SpecialSource/1.7-SNAPSHOT/SpecialSource-1.7-SNAPSHOT.jar` with [this](http://central.maven.org/maven2/net/md-5/SpecialSource/1.7.4/SpecialSource-1.7.4.jar). Needed for authme. See [this](https://github.com/games647/FastLogin/issues/111#issuecomment-272331347) for more info.
+
 //TODO
 
 So here's a collection of my fixes:
