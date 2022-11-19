@@ -9,9 +9,9 @@ Here's a list of my plugins:
 Here's a list of my mods:
 
 Other recommended fixes:
-* If you use gilded games util, downloas the version [here](https://download939.mediafire.com/qqbyj3rjs3mg/0gr0iqwqv8xv5oa/gilded-games-util-1.7.10-1.10.jar). This version has debug output disabled, the last released official version left debug output enabled.
+* If you use gilded games util, download the version [here](https://download939.mediafire.com/qqbyj3rjs3mg/0gr0iqwqv8xv5oa/gilded-games-util-1.7.10-1.10.jar). This version has debug output disabled, the last released official version left debug output enabled.
 
-# Thermos (Те́рмос)(TH啦)
+# Thermos (ngl, I always thought it was spelled thermace)
 
 [Русский](https://cyberdynecc.github.io/Thermos/#googtrans(en|ru)) [Deutsch](https://cyberdynecc.github.io/Thermos/#googtrans(en|de)) [Français](https://cyberdynecc.github.io/Thermos/#googtrans(en|fr)) [Español](https://cyberdynecc.github.io/Thermos/#googtrans(en|es)) [Português](https://cyberdynecc.github.io/Thermos/#googtrans(en|pt)) [Nederlands](https://cyberdynecc.github.io/Thermos/#googtrans(en|nl)) [汉语](https://cyberdynecc.github.io/Thermos/#googtrans(en|jp)) [日本語](https://cyberdynecc.github.io/Thermos/#googtrans(en|zh)) [조선말](https://cyberdynecc.github.io/Thermos/#googtrans(en|ko)) [हिन्दी](https://cyberdynecc.github.io/Thermos/#googtrans(en|hi))
 
