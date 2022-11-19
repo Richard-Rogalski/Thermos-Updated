@@ -1,4 +1,15 @@
-# THERMOS IS NO LONGER BEING DEVELOPED. IF YOU MAKE AN ISSUE, IT WILL NOT BE RESOLVED AND WILL JUST BE CLOSED.
+//TODO
+
+So here's a collection of my fixes:
+* Update library for authme
+* Update guava library for mythicmobs
+
+Here's a list of my plugins:
+
+Here's a list of my mods:
+
+Other recommended fixes:
+* If you use gilded games util, downloas the version [here](https://download939.mediafire.com/qqbyj3rjs3mg/0gr0iqwqv8xv5oa/gilded-games-util-1.7.10-1.10.jar). This version has debug output disabled, the last released official version left debug output enabled.
 
 # Thermos (Те́рмос)(TH啦)
 
